@@ -1,4 +1,4 @@
-<h2 align="left">Oi! 👋 Sou a Kananda Becker, uma futura engenheira de software, sempre explorando o que o mundo da tecnologia tem de bom. No momento, estou me aventurando no front-end, onde posso juntar código com um pouco de criatividade. Também estou descobrindo o mundo da gestão de equipes e me  aprofundando em Times Ágeis, atuando como Scrum Master e Product Owner.<br><br>Na faculdade de Engenharia de Software 💻, estou sempre aprendendo algo novo e colocando a mão na massa. Tenho uma boa base em bancos de dados, principalmente PostgreSQL, e já brinquei um pouco com MongoDB. Por vezes, me divirto com Python só pra variar.<br><br>Estou começando a me familiarizar com o GitHub, e sei que tem muito o que aprender, mas faz parte da jornada, né? Se você curte projetos legais e gosta de trocar ideias sobre tecnologia, vamos nos dar bem! 🚀</h2>
+<h2 align="left"></h2>
 
 ###
 
